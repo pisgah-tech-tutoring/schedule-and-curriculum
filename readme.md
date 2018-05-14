@@ -1,20 +1,40 @@
-# Pisgah Tech Tutoring - Schedule
+# Pisgah Tech Tutoring - Schedule & Curriculum
 
-## Week 1
-By the end of this week students should understand:
+## Schedule
+We are scheduled for classes from 5:30-7:30pm on the Mondays and Thursdays of the following weeks:
+
+Week | Monday | Thursday
+---- | ------ | --------
+1 | June 11 | June 14
+2 | June 18 | June 21
+3 | June 25 | June 28
+| ** No classes week of July 4th ** |
+4 | July 9 | July 12
+5 | July 16 | July 19
+6 | July 23 | July 26
+7 | July 30 | August 2
+8 | August 6 | August 9
+
+
+## Curriculum
+
+### Week 1
+- Computer setup
+- - Application installs
+- - command line tools
 - HTML/CSS basics
+- Responsive web development
 - basic navigation and tasks in Terminal
 - using basic Git and GitHub workflows
+
+### Week 2
 - large PSD-to-semantic-markup-and-css projects
 - pixel perfect work on any layout their given
 - quality documentation and resources (MDN, Stackoverflow, etc.)
-## Week 2
-By the end of this week students should understand:
-- Responsive web development
 - SCSS syntax, Sass mixins, variable, and functions like darken and lighten.
 - refactoring plain CSS into well-written SASS
-- Bourbon and Neat
-## Week 3
+
+### Week 3
 By the end of this week students should understand:
 - ES3/5/6/7
   - 3: core
@@ -31,7 +51,8 @@ By the end of this week students should understand:
 - iteration in JS
 - Array.prototype.map, Array.prototype.reduce, Array.prototype.filter, etc.
 - Handlebars.js
-## Week 4
+
+### Week 4
 By the end of this week students should understand:
 - DOM-related jQuery
 - Underscore as a fallback for native methods like: `Array.prototype.map`
@@ -42,7 +63,8 @@ By the end of this week students should understand:
 - non-DOM-related jQuery
 - building a simple, polling-based chat application using GET and POST HTTP methods
 - JS promises (jQuery-flavored)
-## Week 5 
+
+### Week 5 
 By the end of this week students should understand:
 - team-based workflow with Git/GitHub
 - git rebase, git pull --rebase, git merge
@@ -51,7 +73,8 @@ By the end of this week students should understand:
 - scope
 - closures
 - currying and partial application
-## Week 6 
+
+### Week 6 
 By the end of this week students should understand:
 - Backbone.Router
 - hashbangs vs HTML5 Pushstate API
@@ -63,23 +86,19 @@ By the end of this week students should understand:
 - Backbone.View
 - Building a small JavaScript MVC "todo" app.
 - Using REST APIs (with jsonp, CORS, or some other x-domain circumvention method)
-## Week 7 
+
+### Week 7 
 By the end of this week students should understand:
 - all aspects of Backbone.js
 - reading and understanding the Backbone.js source code
 - relational vs non-relational databases
-## Week 8 
+
+### Week 8 
 By the end of this week students should understand:
 - basics of user authentication, cookies, and localStorage
 - using React Components to refactor a previous Backbone project
-## Week 9 
-This week is a week for review and catch-up. Things will fall through the cracks during the previous 8 weeks, and so we have this week as a flex week to make sure we cover everything we've missed.
-
-By the end of this week students should understand:
 - React
 - React Router and Routes
 - Using JavaScript libraries with React (e.g. Google Maps)
 - Deploying with create-react-app
 - building an HTTP proxy in node.js w/ Express
-## Week 10, 11, 12
-The last three weeks are for final projects. Each student will design, build and deploy a major project of their own, using as much tech from the previous nine weeks as possible. Lecture is light and mostly Q&A based on problems students encounter. The rest of the time is spent working on final projects and prepping demos
