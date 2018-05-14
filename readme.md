@@ -1,4 +1,5 @@
-# Tentative Schedule
+# Pisgah Tech Tutoring - Schedule
+
 ## Week 1
 By the end of this week students should understand:
 - HTML/CSS basics
