@@ -66,26 +66,19 @@ By the end of this week students should understand:
 By the end of this week students should understand:
 - all aspects of Backbone.js
 - reading and understanding the Backbone.js source code
-- using Parse's REST API and datastore
 - relational vs non-relational databases
 ## Week 8 
 By the end of this week students should understand:
 - basics of user authentication, cookies, and localStorage
-- building a small-scale social network with Parse.
-- complex queries on relational Parse data
-- ember-cli
-- Ember object model and computed properties
-- using Ember Components to refactor a previous Backbone project
+- using React Components to refactor a previous Backbone project
 ## Week 9 
 This week is a week for review and catch-up. Things will fall through the cracks during the previous 8 weeks, and so we have this week as a flex week to make sure we cover everything we've missed.
 
 By the end of this week students should understand:
-- ember-data
-- Ember Router and Routes
-- Using JavaScript libraries with Ember (e.g. Google Maps)
-- ember-cli addons
-- Deploying ember-cli apps
-- cloud modules with Parse
-- building an HTTP proxy in node.js
+- React
+- React Router and Routes
+- Using JavaScript libraries with React (e.g. Google Maps)
+- Deploying with create-react-app
+- building an HTTP proxy in node.js w/ Express
 ## Week 10, 11, 12
 The last three weeks are for final projects. Each student will design, build and deploy a major project of their own, using as much tech from the previous nine weeks as possible. Lecture is light and mostly Q&A based on problems students encounter. The rest of the time is spent working on final projects and prepping demos
