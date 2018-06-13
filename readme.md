@@ -13,8 +13,6 @@ Week | Monday | Thursday
 5 | July 16 | July 19
 6 | July 23 | July 26
 7 | July 30 | August 2
-8 | August 6 | August 9
-
 
 ## Curriculum
 
@@ -92,11 +90,6 @@ By the end of this week students should understand:
 - all aspects of Backbone.js
 - reading and understanding the Backbone.js source code
 - relational vs non-relational databases
-
-### Week 8 
-By the end of this week students should understand:
-- basics of user authentication, cookies, and localStorage
-- using React Components to refactor a previous Backbone project
 - React
 - React Router and Routes
 - Using JavaScript libraries with React (e.g. Google Maps)
